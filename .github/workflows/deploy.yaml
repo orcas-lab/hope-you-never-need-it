@@ -1,0 +1,28 @@
+name: Deploy to Github pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      
+      - name: Install dependencies
+        run: pip install mkdocs-material==9.2.0b3
+      
+      - name: Deploy MkDocs
+        run: mkdocs gh-deploy --force
