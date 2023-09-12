@@ -1,0 +1,7 @@
+site_name: 希望你永远用不到
+theme:
+  name: 'material'
+markdown_extensions:
+  - admonition
+plugins:
+  - mermaid2
