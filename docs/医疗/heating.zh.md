@@ -1,7 +1,5 @@
 ---
-Authors: [GaoNeng-wWw]
-copyright: GPL-3.0
-warning: true
+comments: true
 ---
 
 # 发热

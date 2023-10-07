@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+---
+comments: true
+---
+## 关于 / About
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本网站是一个开源、免费的应急小册。
 
-## Commands
+你可以通过提交pull_requests的形式来为本文档做贡献。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 结构
 
-## Project layout
+```
+docs // 文旦存放的地方
+  <categories> // 一般是用来放一个大类，比如医疗、通讯、社会学等
+    <name>.<language-short-name>.md // 文档内容
+```
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+如果文档有帮助到你，麻烦点一个⭐支持一下~
+
+## 文档要求
+
+你需要在任何会造成(或潜在造成)人身伤害(包括不可逆)，精神伤害的地方使用下述警示代码来提醒读者
+
+```
+!!! warning "注意"
+    本节涉及到专业医疗知识，除非紧急情况，否则请在医师指导下进行
+```
