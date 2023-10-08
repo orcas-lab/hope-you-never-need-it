@@ -11,3 +11,4 @@ plugins:
   - mermaid2
 extra:
   disqus: 'open' # 评论系统
+  generator: false
