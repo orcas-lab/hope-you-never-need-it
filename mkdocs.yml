@@ -1,6 +1,6 @@
 site_name: 希望你永远用不到
-repo_url: https://github.com/GaoNeng-wWw/hope-you-dont-need-it
-repo_name: GaoNeng-wWw/hope-you-dont-need-it
+repo_url: https://github.com/orcas-lab/hope-you-dont-need-it
+repo_name: orcas-lab/hope-you-dont-need-it
 theme:
   name: 'material'
   custom_dir: overrides
