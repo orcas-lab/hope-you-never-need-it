@@ -3,8 +3,10 @@ repo_url: https://github.com/GaoNeng-wWw/hope-you-dont-need-it
 repo_name: GaoNeng-wWw/hope-you-dont-need-it
 theme:
   name: 'material'
+  custom_dir: overrides
 markdown_extensions:
   - admonition
+  - footnotes
 plugins:
   - mermaid2
 extra:
