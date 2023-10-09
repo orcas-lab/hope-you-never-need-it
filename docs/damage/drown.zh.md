@@ -88,3 +88,5 @@
 3. 教学龄儿童（6岁以上）学会游泳和水上安全技能
 4. 在封闭水域设置救生员
 
+[^1]: https://sph.stu.edu.cn/info/1086/1304.htm
+[^2]: https://www.globalfirstaidcentre.org/zh-CN/drowning/
