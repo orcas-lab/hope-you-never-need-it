@@ -54,7 +54,7 @@
 2. 为患者身上盖上更多的衣服，保持患者体温，避免失温
 3. 保持监控，随时准备急救，因为患者随身有可能进一步恶化
 
-![Alt text](assets/drown/GettyImages%20525589101.jpg)
+![Alt text](assets/drown/Recovery-Position.jpeg)
 <center>(图1-2)</center>
 
 #### 无反应且呼吸异常
