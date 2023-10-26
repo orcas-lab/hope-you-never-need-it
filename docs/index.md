@@ -12,7 +12,7 @@ comments: true
 ## 结构
 
 ```
-docs // 文旦存放的地方
+docs // 文档存放的地方
   <categories> // 一般是用来放一个大类，比如医疗、通讯、社会学等
     <name>.<language-short-name>.md // 文档内容
 ```
